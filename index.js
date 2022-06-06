@@ -35,7 +35,7 @@ console.log(!validate('abc')) //'abc - Expected false');
 console.log(validate('Password123')) //'Password123 - Expected true');
  
  */
-// Задача 2 
+// Задача 3 
 // link - https://www.codewars.com/kata/556deca17c58da83c00002db/train/javascript
 
 function tribonacci(signature,n){
