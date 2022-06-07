@@ -18,20 +18,6 @@ function add(a, b) {
 
 // Задача 2 
 
-
-
- 
-
-/* console.log(validate('djI38D55')) //'djI38D55 - Expected true');
-console.log(!validate('a2.d412')) //'a2.d412 - Expected false');
-console.log(!validate('JHD5FJ53')) //'JHD5FJ53 - Expected false');
-console.log(!validate('!fdjn345')) //'!fdjn345 - Expected false'); 
-console.log(!validate('jfkdfj3j')) //'jfkdfj3j - Expected false'); 
-console.log(!validate('123')) //'123 - Expected false');
-console.log(!validate('abc')) //'abc - Expected false');
-console.log(validate('Password123')) //'Password123 - Expected true');
- 
- */
 // Задача 3
 // link - https://www.codewars.com/kata/556deca17c58da83c00002db/train/javascript
 
@@ -53,7 +39,7 @@ console.log(validate('Password123')) //'Password123 - Expected true');
 
 
  
-// Задача 3
+// Задача 4
 // link - https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript
 
 function findOutlier(integers){
